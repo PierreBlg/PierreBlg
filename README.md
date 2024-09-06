@@ -15,8 +15,6 @@ I'm the CEO of Celest, a versatile enterprise that started as a decentralized ex
 ## 🌟 Professional Experience
 - **CEO at Celest:** Currently leading a company focusing on freelance and development services in the blockchain sphere.
 - **Fullstack and Smart Contract Developer at Istari Vision:** Worked in an Agile team environment, developed smart contracts, and led training programs on blockchain technology.
-- **Freelance Developer at Bellegueule Informatique:** Offered a range of services including development, consulting, and IT assistance.
-- **Consultant and Python Developer at LE CH'TI SOLEIL:** Specialized in software development, automation, and IT system enhancements.
 
 ## 🔍 Key Projects
 - **Celest DEX:** Pioneered a decentralized trading platform on the MultiversX blockchain.
